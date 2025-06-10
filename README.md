@@ -3,6 +3,8 @@ Programme of Studies data in JSON format, generated using Walnit's [nushPOSextra
 The POS itself in PDF format is available on the [school website](https://www.nushigh.edu.sg/studying-at-nus-high/the-nus-high-diploma/programme-of-studies/
 ).
 
+The contents.json file is a list of all the years for which POS data is present in the repo.
+
 *Note: I modified the nushPOSextractor tool slightly to account for some module errors (and ended up modifying one piece of module source code), but the tool itself might/should still work*
 
 ---
