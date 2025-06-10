@@ -7,6 +7,6 @@ The POS itself in PDF format is available on the [school website](https://www.nu
 
 ---
 
-Content served through GitHub Pages at [gohjy.github.io/nush-pos-data/data/[YEAR]/data.json](https://gohjy.github.io/nush-pos-data/data/2030/data.json)
+Content served through GitHub Pages at [gohjy.github.io/nush-pos-data/data/[YEAR]/pos.json](https://gohjy.github.io/nush-pos-data/data/2030/pos.json)
 
 Due to the extremely infrequent nature of POS updates, you may want to consider downloading a copy and hosting it locally instead to save on both our bandwidths.
