@@ -9,6 +9,6 @@ The contents.json file is a list of all the years for which POS data is present 
 
 ---
 
-Content served through GitHub Pages at [gohjy.github.io/nush-pos-data/data/[YEAR]/pos.json](https://gohjy.github.io/nush-pos-data/data/2030/pos.json)
+Content served through GitHub Pages at [gohjy.github.io/nush-pos-data/data/[YEAR]/pos.json](https://gohjy.github.io/nush-pos-data/data/2030/pos.json) for the edited files (fixing any whitespace issues and the like), and [gohjy.github.io/nush-pos-data/data/[YEAR]/raw.json](https://gohjy.github.io/nush-pos-data/data/2030/raw.json) for the raw, unedited JSON output.
 
 Due to the extremely infrequent nature of POS updates, you may want to consider downloading a copy and hosting it locally instead to save on both our bandwidths.
