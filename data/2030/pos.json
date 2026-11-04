@@ -394,7 +394,7 @@
     "level": 2,
     "sem": 2,
     "code": "GC2332",
-    "type": "Enrichm ent",
+    "type": "Enrichment",
     "title": "STEAM Lab",
     "description": "This course offers a cross-disciplinary learning experience at the intersection of design, engineering, and technology, with a focus on sustainability and innovation. The programme fosters critical thinking, creative problem-solving and collaboration. Students explore sustainable materials, low-waste prototyping through sewing, embroidery, and 3D printing, and coding for embroidered designs, while learning how precision engineering drives innovation in BERNINA technology and the wider industry.",
     "mcs": 2,
@@ -664,7 +664,7 @@
     "level": 3,
     "sem": 1,
     "code": "BL3331",
-    "type": "Enrichme nt",
+    "type": "Enrichment",
     "title": "Foundations In General Biology",
     "description": "This is a bridging course offered to the yearly intake of new Year 3 students. Students will be guided to review the foundational knowledge in Year 1 and Year 2 biology courses such as ecology, cell biology and physiology. The key emphasis of the course is on the development and familiarization of hands-on practical skills that will facilitate the learning of biology. Laboratory skills involving microscopy, microbiological and physiological techniques will be taught.",
     "mcs": 2,
@@ -3541,7 +3541,7 @@
     "level": 3,
     "sem": "1 and 2",
     "code": "AR3331",
-    "type": "Enrichme nt",
+    "type": "Enrichment",
     "title": "Ceramictivity",
     "description": "Discover the art of shaping clay with your hand. You will learn techniques such as slab rolling, coil construction with an introduction to the slab roller and other ceramics tools. This enrichment will focus on the fundamentals of hand building, from creating a piece to glazing and firing it. Ceramictivity is not just about creating art; it's about expressing yourself through the tactile and therapeutic process of working with clay. This course promises to be a rejuvenating experience that allows you to tap into your creativity and explore the limitless possibilities of ceramic art. By the end of the course, students would have been able to: \u2022 develop and cultivate aesthetic values in art so to allow lifelong learners. \u2022 acquire self-awareness and apply self-management skills to achieve personal well-being and effectiveness. \u2022 acquire social awareness and apply interpersonal skills to build and maintain positive relationships based on mutual respect.",
     "mcs": 2,
@@ -3639,7 +3639,7 @@
     "preclusions": "",
     "corequisites": "",
     "hrs": 3,
-    "remarks": "Students will take eithter DV2134, DV2135 or DV2136 in Year 2"
+    "remarks": "Students will take either DV2134, DV2135 or DV2136 in Year 2"
   },
   {
     "department": "DV",
@@ -3654,7 +3654,7 @@
     "preclusions": "",
     "corequisites": "",
     "hrs": 3,
-    "remarks": "Students will take eithter DV2134, DV2135 or DV2136 in Year 2"
+    "remarks": "Students will take either DV2134, DV2135 or DV2136 in Year 2"
   },
   {
     "department": "DV",
@@ -3669,7 +3669,7 @@
     "preclusions": "",
     "corequisites": "",
     "hrs": 3,
-    "remarks": "Students will take eithter DV2134, DV2135 or DV2136 in Year 2"
+    "remarks": "Students will take either DV2134, DV2135 or DV2136 in Year 2"
   },
   {
     "department": "DV",
@@ -3707,7 +3707,7 @@
     "sem": 2,
     "code": "DV3234",
     "type": "Elective",
-    "title": "Overseas Technopreneurshi p Learning Journey",
+    "title": "Overseas Technopreneurship Learning Journey",
     "description": "Students will join team of under-graduates from the Singapore University of Social Sciences on the Impact Start Up Challenge. They will go on an overseas trip, taking part in an entrepreneurship bootcamp. The teams will engage in brainstorming sessions, validate their business ideas, design prototypes, and present a pitch in front of a panel of judges. Students will benefit from opportunities to connect with experts from different domains by engaging with startup and local communities.",
     "mcs": 0,
     "prerequisites": "None",
@@ -3722,7 +3722,7 @@
     "sem": "1 and 2",
     "code": "IP",
     "type": "Core",
-    "title": "Research/Innovati on Project",
+    "title": "Research/Innovation Project",
     "description": "All students are required to complete and pass at least one Research or Innovation Project in the field of Math, Science or Engineering as an individual or in a team. Projects in other quantitative fields like economics may also be allowed. These projects may be linked to external programmes like the Science Mentorship Programme, Nanyang Research Programme, or the Young Defence Scientists\u2019 Programme. Students can do these projects internally or at an external research organization. Students can also do more than one project if they have the passion and aptitude.",
     "mcs": 0,
     "prerequisites": "DV3131",
@@ -3796,7 +3796,7 @@
     "sem": 1,
     "code": "IC6143",
     "type": "Core",
-    "title": "Multidimensiona l Thinking",
+    "title": "Multidimensional Thinking",
     "description": "This course focuses on strategies for analytical, adaptive and inventive thinking, reason and logic.",
     "mcs": 2,
     "prerequisites": "None",
