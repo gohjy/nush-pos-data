@@ -380,7 +380,7 @@
     "sem": 2,
     "code": "CS2242",
     "type": "Elective",
-    "title": "Problem Solving in Computing",
+    "title": "Introduction to Infomatics Olympiad",
     "description": "The aim of this course is to introduce students to the discipline of computing and to the problem solving process. Students will apply the programming concepts learnt to solve various problems.",
     "mcs": 2,
     "prerequisites": "CS2241",
